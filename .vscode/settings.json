@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Python\\Python36-32\\python.exe"
+    "python.pythonPath": "C:\\Python\\Python36-32\\python.exe",
+    "files.associations": {
+        "system_error": "cpp",
+        "type_traits": "cpp"
+    }
 }
