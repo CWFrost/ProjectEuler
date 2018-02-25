@@ -2,6 +2,9 @@
     "python.pythonPath": "C:\\Python\\Python36-32\\python.exe",
     "files.associations": {
         "system_error": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "iosfwd": "cpp"
     }
 }
